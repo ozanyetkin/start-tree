@@ -1,0 +1,24 @@
+:root {
+    /* Special */
+    --background: #000000;
+    --foreground: #42a5f5;
+    --cursor: #42a5f5;
+
+    /* Colors */
+    --color0: #000000;
+    --color1: #42a5f5;
+    --color2: #2d2d2d;
+    --color3: #9a9c9f;
+    --color4: #9a9c9f;
+    --color5: #585a5a;
+    --color6: #9a9c9f;
+    --color7: #9a9c9f;
+    --color8: #36393f;
+    --color9: #42a5f5;
+    --color10: #2d2d2d;
+    --color11: #42a5f5;
+    --color12: #42a5f5;
+    --color13: #585a5a;
+    --color14: #42a5f5;
+    --color15: #9a9c9f;
+}
